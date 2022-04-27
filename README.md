@@ -1,10 +1,10 @@
 
 Foo, bar, etc
 
-```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
+```mermaid!
+pie title Pets adopted by volunteers
+  "Dogs" : 386
+  "Cats" : 85
+  "Birds" : 35
+  "Giant lizards" : 10
 ```
